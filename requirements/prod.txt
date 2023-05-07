@@ -1,0 +1,6 @@
+# all the production requirements
+# when we deploy app, 
+# we're not gonna install anything 
+# that we use for local dev
+
+Django==4.2.1 # called the semantic version, 4 major, 2 minor, 1 catch (different levels of releases)

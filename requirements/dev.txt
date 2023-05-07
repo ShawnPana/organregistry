@@ -1,0 +1,6 @@
+# all of our local requirements
+# Everything the developer needs in addition to the production requirements
+-r prod.txt
+
+black==19.10b0
+mypy==0.782
